@@ -16,6 +16,7 @@
 		D65736C72547DA0B0083FF11 /* TabPageViewDidAppearTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65736C62547DA0B0083FF11 /* TabPageViewDidAppearTests.swift */; };
 		D65736D22547DA0B0083FF11 /* TabPageViewDidAppearUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65736D12547DA0B0083FF11 /* TabPageViewDidAppearUITests.swift */; };
 		D65736E32547DA430083FF11 /* FooView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65736E22547DA430083FF11 /* FooView.swift */; };
+		D65736EB2547DBC00083FF11 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65736EA2547DBC00083FF11 /* PageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D65736D12547DA0B0083FF11 /* TabPageViewDidAppearUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabPageViewDidAppearUITests.swift; sourceTree = "<group>"; };
 		D65736D32547DA0B0083FF11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D65736E22547DA430083FF11 /* FooView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooView.swift; sourceTree = "<group>"; };
+		D65736EA2547DBC00083FF11 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				D65736AF2547DA090083FF11 /* AppDelegate.swift */,
 				D65736B12547DA090083FF11 /* SceneDelegate.swift */,
 				D65736B32547DA090083FF11 /* ContentView.swift */,
+				D65736EA2547DBC00083FF11 /* PageView.swift */,
 				D65736E22547DA430083FF11 /* FooView.swift */,
 				D65736B52547DA0A0083FF11 /* Assets.xcassets */,
 				D65736BA2547DA0A0083FF11 /* LaunchScreen.storyboard */,
@@ -269,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D65736EB2547DBC00083FF11 /* PageView.swift in Sources */,
 				D65736B02547DA090083FF11 /* AppDelegate.swift in Sources */,
 				D65736B22547DA090083FF11 /* SceneDelegate.swift in Sources */,
 				D65736B42547DA090083FF11 /* ContentView.swift in Sources */,
